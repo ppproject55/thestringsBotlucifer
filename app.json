@@ -8,7 +8,7 @@
     "bot"
   ],
   "website": "https://github.com/RabbitFored/thestringsBot/",
-  "repository": "https://github.com/RabbitFored/thestringsBot/",
+  "repository": "https://github.com/ppproject55/thestringsBotlucifer",
   "success_url": "https://t.me/thestringsBot",
   "env": {
     "TOKEN": {
